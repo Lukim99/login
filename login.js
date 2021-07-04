@@ -1,6 +1,6 @@
 function check() {
-  var id = document.getElementById("id").innerHTML;
-  var password = document.getElementById("pass").innerHTML;
+  var id = document.getElementById("id").innerText;
+  var password = document.getElementById("pass").innerText;
   if (id == "") {
     alert("아이디를 입력해주세요.");
   }
