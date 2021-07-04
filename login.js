@@ -9,6 +9,3 @@ function check() {
     location.href = "https://ykm-dev.site";
   }
 }
-if (window.event.keyCode==13) {
-  check();
-}
