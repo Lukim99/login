@@ -115,3 +115,8 @@ h2 {
   font-size: 1.2em;
   letter-spacing: 2px;
 }
+.register {
+  text-align: center;
+  font-size: 14px;
+  font-color: grey;
+}
