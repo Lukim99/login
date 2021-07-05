@@ -26,7 +26,7 @@
   .login {
     width: 30%;
     height: 600px;
-    minWidth: 300;
+    minWidth: 300px;
     background: white;
     border-radius: 20px;
     display: flex;
